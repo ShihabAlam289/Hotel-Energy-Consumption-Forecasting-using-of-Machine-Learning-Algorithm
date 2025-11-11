@@ -81,5 +81,12 @@ Support sustainability goals.
 Python: pandas, matplotlib, scikit-learn, xgboost, seaborn
 
 Google Colab
+Future Work
+
+Integrate IoT sensor streams for real-time prediction.
+
+Add deep learning models (e.g., LSTM, ANN).
+
+Deploy on a dashboard (Streamlit / Power BI).
 
 
